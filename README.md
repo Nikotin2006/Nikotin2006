@@ -4,8 +4,8 @@ My name is Oussama Hannoune , I'm a developer , And i enjoy learning languages( 
  I work with wordpress and also i have passion for wireframing , UI , UX and design in general.
  
 ## Skills and Experience
-📱 Flutter, Dart
-💻 HTML, CSS, JS, PHP.
-⚛ WORDPRESS
+* 📱  Flutter, Dart
+* 💻 HTML, CSS, JS, PHP.
+* ⚛  WORDPRESS
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikotin2006)](https://github.com/anuraghazra/github-readme-stats)
