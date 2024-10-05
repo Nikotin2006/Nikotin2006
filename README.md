@@ -16,5 +16,6 @@
 I genuinely love what I do. Each line of code is a chance to solve problems and bring ideas to life. I’m committed to continuous learning and excited to explore new technologies and frameworks
 
 ## Let's Connect
-I believe in the power of collaboration and sharing knowledge. Feel free to check out my projects, reach out, or connect with me on social media!
-*📧 Hannoune.oussama0@gmail.com
+I’m always open to collaboration, discussions, and new ideas! Feel free to explore my projects, and don’t hesitate to connect with me on LinkedIn or reach out via Twitter.
+![image](https://github.com/user-attachments/assets/7e2f9198-1788-429c-a8f1-31b9e4944c9f) JHHGUYGU
+
