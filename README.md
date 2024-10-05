@@ -1,6 +1,6 @@
 ## 👋 Hi there! I’m Oussama
 
-I'ma passionate web developer currently in my second year at Omnia School of Business and Technology. My coding journey began with HTML, and over time, I've expanded my skills to include a variety of languages and technologies.
+#### I'ma passionate web developer currently in my second year at Omnia School of Business and Technology. My coding journey began with HTML, and over time, I've expanded my skills to include a variety of languages and technologies.
 
 ## Skills
 
@@ -17,4 +17,4 @@ I genuinely love what I do. Each line of code is a chance to solve problems and 
 
 ## Let's Connect
 I believe in the power of collaboration and sharing knowledge. Feel free to check out my projects, reach out, or connect with me on social media!
-📧 Hannoune.oussama0@gmail.com
+*📧 Hannoune.oussama0@gmail.com
