@@ -17,5 +17,5 @@ I genuinely love what I do. Each line of code is a chance to solve problems and 
 
 ## Let's Connect
 I’m always open to collaboration, discussions, and new ideas! Feel free to explore my projects, and don’t hesitate to connect with me on LinkedIn or reach out via Twitter.
-<a href="https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg">Google</a>, Public domain, via Wikimedia Commons
+<a href="https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg">GMAIL</a>
 
