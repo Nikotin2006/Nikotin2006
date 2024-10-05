@@ -5,12 +5,12 @@
 ## Skills
 
 ### I’ve built a solid foundation in:
-HTML & CSS: Crafting the structure and style of web pages.
-JavaScript: Adding interactivity and enhancing user experience.
-Dart & Flutter: Venturing into mobile development to create beautiful applications.
-PHP: Developing dynamic web applications with server-side scripting.
-WordPress: Designing flexible websites with powerful content management.
-SQL: Managing databases to ensure efficient data handling.
+* HTML & CSS: Crafting the structure and style of web pages.
+* JavaScript: Adding interactivity and enhancing user experience.
+* Dart & Flutter: Venturing into mobile development to create beautiful applications.
+* PHP: Developing dynamic web applications with server-side scripting.
+* WordPress: Designing flexible websites with powerful content management.
+* SQL: Managing databases to ensure efficient data handling.
 
 ## My Passion
 I genuinely love what I do. Each line of code is a chance to solve problems and bring ideas to life. I’m committed to continuous learning and excited to explore new technologies and frameworks
