@@ -1,10 +1,10 @@
-### 👋 Hi there! I’m Oussama
+## 👋 Hi there! I’m Oussama
 
 I'ma passionate web developer currently in my second year at Omnia School of Business and Technology. My coding journey began with HTML, and over time, I've expanded my skills to include a variety of languages and technologies.
 
 ## Skills
 
-# I’ve built a solid foundation in:
+### I’ve built a solid foundation in:
 HTML & CSS: Crafting the structure and style of web pages.
 JavaScript: Adding interactivity and enhancing user experience.
 Dart & Flutter: Venturing into mobile development to create beautiful applications.
